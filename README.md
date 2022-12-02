@@ -66,7 +66,7 @@
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- ⚡ Website [[Fnoberz.com](http://fnoberz.com/)](https://memoryhackers.org/members/uhpep.1418938/) | It's Just an Introduction and **Work History.**
+- ⚡ Website https://memoryhackers.org/members/uhpep.1418938/ | It's Just an Introduction and **Work History.**
 
 - 💬 Discord [uhpep#0041](https://discord.com/users/870742569787748363) | [Discord Server](https://discord.gg/MBTkVcJefp)
 

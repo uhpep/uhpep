@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm uhpep Full Stack Developer</h1>
 <h3 align="center">currently everything</h3>
 
-- 🔭 I’m currently working on **Reversing1**
+- 🔭 I’m currently working on **Reversing**
 
 - 🌱 I’m currently learning **everything 🤣**
 

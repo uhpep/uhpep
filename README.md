@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm uhpep Full Stack Developer</h1>
 <h3 align="center">I’m currently everything</h3>
 
-- 🔭 I’m currently working on **Reversing1**
+- 🔭 I’m currently working on **Reversing**
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👯 I’m looking to collaborate on **Reversing2**
+- 👯 I’m looking to collaborate on **Gaming**
 
-- 🤝 I’m looking for help with **Reversing3**
+- 🤝 I’m looking for help with **Life**
 
 - 👨‍💻 All of my projects are available at [https://memoryhackers.org/find-threads/started](https://memoryhackers.org/find-threads/started)
 

@@ -9,16 +9,16 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.com-blue?style=for-the-badge)](http://fnoberz.com/)
+[![Website Badge](https://img.shields.io/badge/Website-MemoryHackers.org-blue?style=for-the-badge)](MemoryHackers.org)
   
 
 
 
 
 <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.com/users/870742569787748363">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Fnoberz">
+  <a href="https://github.com/uhpep">
    <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
@@ -78,7 +78,7 @@
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Fnoberz)
+[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/cheesofree)
 <a target="_blank" href="https://discord.com/users/870742569787748363"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@tessivc1585/videos)
 <a target="_blank" href="https://twitter.com"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>

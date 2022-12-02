@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm uhpep Full Stack Developer</h1>
-<h3 align="center">currently everything</h3>
+<h3 align="center">I’m currently everything</h3>
 
-- 🔭 I’m currently working on **Reversing**
+- 🔭 I’m currently working on **Reversing1**
 
 - 🌱 I’m currently learning **everything 🤣**
 
@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://dev.to/uhpep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uhpep" height="30" width="40" /></a>
 <a href="https://codesandbox.com/uhp3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uhp3p" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tess ivc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tess ivc" height="30" width="40" /></a>
-<a href="https://discord.gg/uhpep#0041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uhpep#0041" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-h5yaiuibdiudmttb83phq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-h5yaiuibdiudmttb83phq" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Z8MCGb5Kae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Z8MCGb5Kae" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

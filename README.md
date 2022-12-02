@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/uhpep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uhpep" height="30" width="40" /></a>
 <a href="https://codesandbox.com/uhp3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="uhp3p" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@tessivc1585/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@tessivc1585/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-h5yaiuibdiudmttb83phq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-h5yaiuibdiudmttb83phq" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Z8MCGb5Kae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Z8MCGb5Kae" height="30" width="40" /></a>
 </p>
 

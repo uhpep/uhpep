@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm uhpep Full Stack Developer</h1>
-<h3 align="center">I’m currently everything</h3>
+<h3 align="center">Programming languages that i mainly use.</h3>
 
 - 🔭 I’m currently working on **Reversing1**
 

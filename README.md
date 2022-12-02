@@ -66,11 +66,11 @@
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
+- ⚡ Website [[Fnoberz.com](http://fnoberz.com/)](https://memoryhackers.org/members/uhpep.1418938/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [uhpep#0041](https://discord.com/users/870742569787748363) | [Discord Server](https://discord.gg/MBTkVcJefp)
 
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
+- 📧 Contact https://t.me/uhp3p1337 | [Telegram](https://t.me/cheesofree) 
 
 
 </pre><br>

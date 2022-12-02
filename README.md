@@ -67,7 +67,7 @@
 
 - ⚡ Website https://memoryhackers.org/members/uhpep.1418938/ | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [uhpep#0041](https://discord.com/users/870742569787748363) | [Discord Server](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [uhpep#0041](https://discord.com/users/870742569787748363) | [Discord Server](https://discord.gg/VswJRWUN2j)
 
 - 📧 Contact https://t.me/uhp3p1337 | [Telegram](https://t.me/cheesofree) 
 
@@ -86,7 +86,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/Z8MCGb5Kae">
+    <a href="https://discord.gg/VswJRWUN2j">
         <img title="uhpep server discord" alt="uhpep's discord" src="https://media.discordapp.net/attachments/896372545148813312/1048286234931384350/unknown.png"/>
     </a>
 </p>

@@ -1,16 +1,13 @@
-### Hi there 👋
+📌 Information about all Products Information
 
-<!--
-**uhpep/uhpep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello I'am Fnoberz Full Stack Developer
 
-Here are some ideas to get you started:
+🎓Advanced Master in Programming / Graduated at Bangkok University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛒 Product PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD
+
+⚡ Website MemoryHackers.org | It's Just an Introduction and Work History.
+
+💬 Discord uhpep#0041 | Discord Server
+
+📧 Contact [@uhp3p1337](https://t.me/cheesofree) | Telegram

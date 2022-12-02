@@ -3,7 +3,7 @@
   
 <p align="center">
 
-![Fnoberz](https://user-images.githubusercontent.com/94861415/204950923-0b897e3f-158d-400d-a52c-473755f81a4f.png)
+![uhpep](https://camo.githubusercontent.com/f6e7e34853d153613e9b4ee7e8125949c2238653c5a52cf24b45a3fc81b3948e/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f32633530323736386236353134326132353033316137346362613763663030612f74756d626c725f706333676d785574474a317872737978316f315f313238302e706e67)
 
 
 
@@ -87,7 +87,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/Z8MCGb5Kae">
-        <img title="uhpep server discord" alt="uhpep's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="uhpep server discord" alt="uhpep's discord" src="https://media.discordapp.net/attachments/896372545148813312/1048286234931384350/unknown.png"/>
     </a>
 </p>
 

@@ -22,7 +22,6 @@
    <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Fnoberz&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
 
   ----
 
@@ -45,9 +44,7 @@
 
 <h2 align="center">My github profile stastictics.</h2>
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fnoberz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fnoberz" width = "60%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Fnoberz&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Fnoberz" height = 150/> -->
-</p>
+
 
 
   

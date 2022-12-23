@@ -52,8 +52,7 @@
 
 
 
-<h2 align="center">My github profile stastictics.</h2>
-<p align = "center">
+
 
 
 
